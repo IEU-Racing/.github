@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Formula%20Student-2027-e65100?style=for-the-badge&labelColor=000000" alt="Formula Student 2027">
   <img src="https://img.shields.io/badge/Sınıf-Combustion%20(CV)-ffa94d?style=for-the-badge&labelColor=000000" alt="CV">
   <img src="https://img.shields.io/badge/Motor-Yamaha%20MT--07-e65100?style=for-the-badge&labelColor=000000" alt="Yamaha MT-07">
-  <img src="https://img.shields.io/badge/İzmir-Ekonomi%20Üniversitesi-ffffff?style=for-the-badge&labelColor=000000" alt="İzmir Ekonomi Üniversitesi">
+
 </p>
 
 <h3 align="center">🔸 Every millisecond counts. 🔸</h3>

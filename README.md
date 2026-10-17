@@ -1,4 +1,4 @@
-[ieureadme.md](https://github.com/user-attachments/files/33605857/ieureadme.md)
+
 <p align="center">
   <img src="assets/banner.svg" alt="IEU Racing - Every millisecond counts." width="100%">
 </p>

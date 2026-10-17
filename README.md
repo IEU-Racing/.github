@@ -1,6 +1,6 @@
 [ieureadme.md](https://github.com/user-attachments/files/33605212/ieureadme.md)
 <p align="center">
-  <img src="assets/banner.svg" alt="İEÜ Racing - Lehimle. Kodla. Yarış." width="100%">
+  <img src="assets/banner.svg" alt="İEÜ Racing - Every millisecond counts. ." width="100%">
 </p>
 
 <p align="center">
